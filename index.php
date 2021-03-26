@@ -1,1 +1,5 @@
-{\rtf1}
+<?php
+
+    echo "Olá Mundo!";
+
+?>
